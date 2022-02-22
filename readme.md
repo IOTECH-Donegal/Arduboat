@@ -79,6 +79,6 @@ Early research done.
 
 ### 10. Radio Remote Control (RC) - Not Started
 
-### 11. Charging and Batteries
+### 11. Charging and Batteries - WIP
 The alpha version will use a monstrous lead-acid leisure battery. 
 Eventually, Li-ion parts and methods will be described here.
