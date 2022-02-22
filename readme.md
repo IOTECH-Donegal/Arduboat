@@ -6,7 +6,7 @@ This repo contains all notes and code for the Arduboat based ASV, the first step
 Apart from being a central repo, this material is mostly public domain, 
 please treat it as licensed to Creative Commons (CC BY 4.0).
 If you copy or share the information, you must attribute it to its source (here!).
-Anthing complete for alpha test will be marked so.
+Any subsystem complete for alpha test will be marked so.
 Anything else will be marked as **Work-in-Progress (WIP)** or **Not Started**.
 
 A bill of material (BOM) will only be completed when an alpha vessel first sets sail.
@@ -21,6 +21,7 @@ in the same way as the English use HMS and the USA uses (USS).
 ## Subsystems
 Go back to manufacturer's documentation in every case.
 The notes below are mostly the "gotchas", those things that are not obvious until you start the build.
+Don't touch anything until you have read extensively, one wrong connection will blow components. 
 
 ### 1. Cube Autopilot - WIP
 This was ordered as a kit, Cube Purple, mini-carrier, cables.
