@@ -45,7 +45,7 @@ When you connect the Cube via USB, the red LED flashes rapidly.
    I press **Connect** and it does.
 3. After this, the menus etc. work fine, you can continue to configure.
 4. The **Setup->Frame Type** does not give a boat option!!
-   **Config->Full Parameter Tree->FRAME_CLASS** and set to 2, then **Write Params**.
+   **Config->Full Parameter Tree->FRAME_CLASS** and set to **2**, then **Write Params**.
 5. Go to **Setup->Mandatory Hardware->Accel Calibration** and go through the Calibrate Accel procedure. 
    The result is not intuitive, banking seems reversed, but this is correct (think about it!!).
 6. The Cube Purple does not have a working compass chip, it is disabled. 
@@ -78,3 +78,7 @@ Early research done.
 ### 9. Side Scan (SS) - Not Started
 
 ### 10. Radio Remote Control (RC) - Not Started
+
+### 11. Charging and Batteries
+The alpha version will use a monstrous lead-acid leisure battery. 
+Eventually, Li-ion parts and methods will be described here.
