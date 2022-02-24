@@ -7,7 +7,7 @@ The cables which come out-of-the-box with the cube are JST-GH type, 4 and 6 pin 
 Unfortunately, the Sparkfun boards only have a QWIK connector output, and I have not found a conversion cable.
 For the moment, I have not tested any cable-kludging.
 
-###Ardusimple boards
+### Ardusimple boards
 These have a JST-GH connector, the mating aerial connector is JST GHR-06V.
 
 1. 5V_IN
@@ -17,7 +17,7 @@ These have a JST-GH connector, the mating aerial connector is JST GHR-06V.
 5. Not connected
 6. GND
 
-###Mini Carrier board
+### Mini Carrier board
 These have JST-GH connectors
 
 The matching GPS1 connector is:
@@ -38,5 +38,5 @@ The matching GPS2 connector is:
 5. I2C SDA
 6. GND
 
-Unfortunately, these do not match any of the cables supplied in the mini carrier kit.
+Unfortunately, the Ardusimple side does not match any of the cables supplied in the mini carrier kit.
 A cable from 3DXR (JST-GH 6pin to 6pin 25cm, Code: HB-25CM-JST-GH-6to6) is suitable.
