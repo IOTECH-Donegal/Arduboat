@@ -24,13 +24,8 @@ The notes below are mostly the "gotchas", those things that are not obvious unti
 Don't touch anything until you have read extensively, one wrong connection will blow components. 
 
 ### 1. Cube Autopilot - WIP
-This was ordered as a kit, Cube Purple, mini-carrier, cables.
-There is no telemetry link, this needs to be ordered separately. 
-1. Place the Cube on its carrier board.
-   Ensure the Cube has an SDCard installed, mine came with a 16GB card preinstalled.
-2. Install Mission Planner (MP) on a new Windows 10 VM, I am using VMWare Workstation, it works fine.
-3. Plug the USB cable into the host laptop.
-4. In VMWare, link the device to the VM.
+[Information relating to the Autopilot](cube.md)
+
 
 ### 2. Control PC and Mission Planner - WIP
 Do NOT press the connect button in MP yet, just make sure the port is detected.
@@ -52,13 +47,7 @@ When you connect the Cube via USB, the red LED flashes rapidly.
    You will either need a compass in the GNSS, or you will add a compass board later.
 
 ### 3. GNSS with heading and Inertial Navigation System (INS) - WIP 
-The cables which come out-of-the-box with the cube are JST-GH type, 4 and 6 pin for the GNSS.
-Unfortunately, the Sparkfun boards only have a QWIK connector output, and I have not found a conversion cable.
-For the moment, I have not tested any cable-kludging.
-The Ardusimple boards have a JST connector natively, and I will be testing them *real soon*.
-The menus do mention UBX ZED-9P but do not mention the ZED-9R. 
-Both options are still to be tested.
-An option using OpenINS is also to be tested ++later.
+[Information relating to the GNSS](GNSS.md)
 
 ### 4. Blue Robotics Components - WIP
 A basic kit has been purchased and assembled with a motor controller, all the instructions are included.
