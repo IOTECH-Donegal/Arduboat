@@ -1,6 +1,15 @@
 # Autopilot
 The autopilot chosen was the Cube Purple, as being "good enough" for a rover type application.
 
+Before beginning, take a look at:
+
+- https://www.youtube.com/watch?v=L-pERGhK9rs&t=740s
+
+I found this site at the end of the project, it could have saved me ++ time!
+
+- https://squirm.tech/
+
+
 ## Parts
 This was ordered as a kit, Cube Purple, mini-carrier, cables.
 ### Cables and Connectors
@@ -13,7 +22,8 @@ On the other side they are Molex DF13 4P/5P/6P. The power cables are Molex CLIK-
 ### Telemetry
 There is no telemetry link, this needs to be ordered separately.
 This was ordered from 3DXr as Holybro - Telemetry Radio Set V3 - 100mw 433MHz
-Code: HB-03-14-433-100mw-V3
+Code: HB-03-14-433-100mw-V3.
+
 
 ## Installation
 1. Place the Cube on its carrier board.

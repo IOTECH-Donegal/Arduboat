@@ -40,3 +40,11 @@ The matching GPS2 connector is:
 
 Unfortunately, the Ardusimple side does not match any of the cables supplied in the mini carrier kit.
 A cable from 3DXR (JST-GH 6pin to 6pin 25cm, Code: HB-25CM-JST-GH-6to6) is suitable.
+This worked out of the box as GPS2 and also powered the Ardusimple board.
+
+On the cube, in CONFIG, set GPS_TYPE2 = 2 (UBlox) and then power cycle the unit.
+
+### Adding NTRIP/RTK
+Go to Setup->select NTRIP and press connect.
+Give the connection string: 
+http://rtk2go.com:2101/Umricam

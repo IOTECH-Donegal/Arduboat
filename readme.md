@@ -50,9 +50,8 @@ When you connect the Cube via USB, the red LED flashes rapidly.
 [Information relating to the GNSS](GNSS.md)
 
 ### 4. Blue Robotics Components - WIP
-A basic kit has been purchased and assembled with a motor controller, all the instructions are included.
-There is no independent PSU for 5VDC equipment, a power adapter needs to be separately purchased.
-The power adapter cables also need to be ordered separately.
+[Information relating to the thrusters and ESCs](BR.md)
+
 
 ### 5. On board computer - WIP
 A RPi 4B will be connected to the system eventually as an onboard computer.
