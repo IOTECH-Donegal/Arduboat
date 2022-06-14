@@ -24,6 +24,7 @@ There is no telemetry link, this needs to be ordered separately.
 This was ordered from 3DXr as Holybro - Telemetry Radio Set V3 - 100mw 433MHz
 Code: HB-03-14-433-100mw-V3.
 
+On the laptop side, set to 57600.
 
 ## Installation
 1. Place the Cube on its carrier board.
@@ -31,4 +32,7 @@ Code: HB-03-14-433-100mw-V3.
 2. Install Mission Planner (MP) on a new Windows 10 VM, I am using VMWare Workstation, it works fine.
 3. Plug the USB cable into the host laptop.
 4. In VMWare, link the device to the VM.
+5. Connect the servo cables, BLACK to the bottom pin.
+
+
 
