@@ -1,10 +1,14 @@
 ### GNSS with heading and Inertial Navigation System (INS) - WIP
 The Mission Planner menus do mention UBX ZED-9P but do not mention the ZED-9R. 
-Both options are still to be tested.
+The ZED-9R was not treated as a compass, leaving the device without a working yaw sensor.
+
+
+
 An option using OpenINS is also to be tested ++later.
 
 The cables which come out-of-the-box with the cube are JST-GH type, 4 and 6 pin for the GNSS.
-Unfortunately, the Sparkfun boards only have a QWIK connector output, and I have not found a conversion cable.
+Unfortunately, the Sparkfun boards only have a QWIK connector output, 
+and I have not found a conversion cable.
 For the moment, I have not tested any cable-kludging.
 
 ### Ardusimple boards
