@@ -21,9 +21,9 @@ Anything else will be marked as **Work-in-Progress (WIP)** or **Not Started**.
 A bill of material (BOM) will only be completed when an alpha vessel first sets sail.
 
 In Ireland, we prefix Long Eireannach (LE) to the name of a boat, 
-in the same way as the English use HMS and the USA uses (USS).
+in the same way as the English use HMS and the USA uses USS.
 **LE Tupperware** was a big plastic box and the REV 0.0 frame.
-Everything was moved to an Azul Kayaks Junior Basic for sea trials. 
+Everything was moved to an Azul Junior Basic Kayak for sea trials. 
 - Length: 1850mm
 - Width: 610 mm
 - Height: 230mm
@@ -31,7 +31,8 @@ Everything was moved to an Azul Kayaks Junior Basic for sea trials.
 
 ![](Azul1.jpg)
 
-A (too big!) lead-acid leisure battery was used as it was available. 
+A (too big at 20kg!) lead-acid leisure battery was used as it was available.
+It is mounted above the thrusters and the boat can rotate about its centre of gravity.
 Two patch antenna sit on ground planes.
 
 ## Subsystems
@@ -39,11 +40,14 @@ Go back to manufacturer's documentation in every case.
 The notes below are mostly the "gotchas", those things that are not obvious until you start the build.
 Don't touch anything until you have read extensively, one wrong connection will blow components. 
 
-### 1. Cube Autopilot - WIP
+### 1. Cube Autopilot - Alpha
+This has been extensively tested.
+
 [Information relating to the Autopilot](cube.md)
 
 
-### 2. Control PC and Mission Planner - WIP
+### 2. Control PC and Mission Planner - Alpha
+Extensive testing has been completed.
 
 
 ### 3. GNSS with heading and Inertial Navigation System (INS) - WIP 
