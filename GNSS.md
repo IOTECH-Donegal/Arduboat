@@ -2,8 +2,6 @@
 The Mission Planner menus do mention UBX ZED-9P but do not mention the ZED-9R. 
 The ZED-9R was not treated as a compass, leaving the device without a working yaw sensor.
 
-
-
 An option using OpenINS is also to be tested ++later.
 
 The cables which come out-of-the-box with the cube are JST-GH type, 4 and 6 pin for the GNSS.

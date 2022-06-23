@@ -13,6 +13,7 @@ Most of the cables were unsuitable for use with Ardusimple and additional cables
 
 [Configuring Moving Base GNSS](./CubePurple/Installation.md)
 
+[Radio Control](./CubePurple/RadioControl.md)
 
 
 

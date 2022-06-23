@@ -3,6 +3,15 @@ Despite all the really good videos and notes on the Internet, I have yet to find
 idiot's guide to building an **Autonomous Surface Vehicle (ASV)** or 
 an **Autonomous Underwater Vehicle (AUV)**. 
 This repo contains all notes and code for the Arduboat based ASV, the first step to an AUV.
+
+The primary purpose for this vessel is for taking video/photgraphs for photogrammetry.
+The specification is for:
+- RTK positioning accuracy of c. 1cm
+- Heading response at 5Hz with 0.5°
+These values will need to be available as meta data for video/camera.
+  
+A second option is to use an INS to maintain positional accuracy under piers or in caves.
+
 Apart from being a central repo, this material is mostly public domain, 
 please treat it as licensed to Creative Commons (CC BY 4.0).
 If you copy or share the information, you must attribute it to its source (here!).
@@ -13,10 +22,15 @@ A bill of material (BOM) will only be completed when an alpha vessel first sets 
 
 In Ireland, we prefix Long Eireannach (LE) to the name of a boat, 
 in the same way as the English use HMS and the USA uses (USS).
+**LE Tupperware** was a big plastic box and the REV 0.0 frame.
+Everything was moved to an Azul Kayaks Junior Basic for sea trials. 
+- Length: 1850mm
+- Width: 610 mm
+- Height: 230mm
+- Weight: 8.1kg
 
-**LE Tupperware** is the REV 0.0 frame and no expense has been spared in its engineering. 
+![](Azul1.jpg)
 
-![](Tupperware1.jpg)
 
 ## Subsystems
 Go back to manufacturer's documentation in every case.
