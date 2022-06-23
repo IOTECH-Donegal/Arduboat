@@ -31,6 +31,8 @@ Everything was moved to an Azul Kayaks Junior Basic for sea trials.
 
 ![](Azul1.jpg)
 
+A (too big!) lead-acid leisure battery was used as it was available. 
+Two patch antenna sit on ground planes.
 
 ## Subsystems
 Go back to manufacturer's documentation in every case.
