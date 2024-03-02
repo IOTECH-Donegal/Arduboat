@@ -5,6 +5,8 @@
 |Serial 2|UART2|TELEM2|
 |Serial 3|UART3|GPS1|
 |Serial 4|UART4|GPS2|
+|||I2C2|
+|||CAN2|
 
 ### GPS1
 The cable which came with the Cube did not have a JST-GH connector. 
